@@ -7,6 +7,19 @@
     <title>Document</title>
 </head>
 <body>
-    test 02
+<table style="width:400px">
+  <tr>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>$80</td>
+  </tr>
+</table>
 </body>
 </html>
